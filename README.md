@@ -1,7 +1,7 @@
 # React Blog Application
 
 ## Descripción
-Este proyecto es una aplicación de blog desarrollada en React, diseñada para demostrar habilidades en el desarrollo de aplicaciones web con una arquitectura moderna. Utiliza React para la interfaz de usuario y Firebase para el almacenamiento y recuperación de datos.
+Este proyecto es una aplicación de blog desarrollada en React, diseñada para demostrar habilidades en el desarrollo de aplicaciones web con una arquitectura moderna. Utiliza React para la interfaz de usuario y SQL para el almacenamiento y recuperación de datos.
 
 ## Características
 - **Alta de Entradas:** Los usuarios pueden crear nuevas entradas con título, autor, fecha de publicación y contenido.
